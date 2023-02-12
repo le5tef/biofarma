@@ -1,5 +1,5 @@
 # biofarma
-
+[Biofarma.ru]([https://cli.vuejs.org/config/](http://biofarma.ru/#/about-us)).
 ## Project setup
 ```
 npm install
